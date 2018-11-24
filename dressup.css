@@ -1,0 +1,55 @@
+
+
+body{
+	 background-image: url("http://www.redcarpetsystems.com/wp-content/uploads/2014/05/fashion-runway-rental-redcarpetsystems-dot-com-01.jpg");
+	background-size: cover;
+
+}
+
+
+
+img {
+	position: absolute;
+	margin-left: 15%;
+display:inline-block;
+  height:100%;
+}
+
+
+button{
+	width: 200px;
+	height: 100px;
+  margin-top:100%;
+}
+
+ul{
+	list-style-type: none;
+	display:inline-block;
+}
+
+.bg{
+	visibility: visible;
+	z-index: 3
+}
+//FIX THIS FRO EVERYTHING:HAIR,DRESSES,SKIRTS...
+.shirt{
+	visibility:hidden;
+  z-index: 2;
+}
+
+.pant{
+	visibility:hidden;
+  z-index: 1;
+	}
+
+
+
+
+
+
+
+
+
+
+
+
